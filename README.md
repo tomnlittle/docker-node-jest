@@ -3,7 +3,7 @@
   <br>
   <img src="docs/docker.png" alt="Docker" width="300" href="https://www.docker.com/legal">
   <br>
-  <img src="docs/alpine.svg" alt="Alpine Linux" width="100" href="https://pkgs.alpinelinux.org/">
+  <img src="docs/alpine.svg" alt="Alpine Linux" width="150" href="https://pkgs.alpinelinux.org/">
   <img src="docs/nodejs.png" alt="Nodejs" width="150" href="https://nodejs.org/en/about/resources/">
   <img src="docs/git.png" alt="Git" width="100" href="https://git-scm.com/downloads/logos">
 
